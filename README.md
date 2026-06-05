@@ -39,4 +39,4 @@ This report consolidates sales data into four connected pages, letting users mov
 
 ## Built by
 
-Aishwarya Sudhakar — [LinkedIn](#) · [Portfolio](#)
+Aishwarya Sudhakar — [Portfolio](https://aishwaryas-portfolio.lovable.app/)
